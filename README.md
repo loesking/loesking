@@ -1,4 +1,4 @@
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats-rho-bay.vercel.app/api?username=loesking&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats-rho-bay.vercel.app/api?username=loesking&show_icons=true&hide_border=false" />
 
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats-rho-bay.vercel.app/api/top-langs/?username=loesking" />
 
