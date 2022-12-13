@@ -1,5 +1,7 @@
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-rho-bay.vercel.app/api?username=loesking&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
+[![Top Langs](https://github-readme-stats-rho-bay.vercel.app/api/top-langs/?username=loesking&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **loesking/loesking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
